@@ -51,7 +51,7 @@ Note: The bitcoin machine will meet a higher ratio after several rounds of opera
 ```
 ## 3.The coin with the most 0s you managed to find
 
-The moset 0s we managed to find is 7
+The most 0's we managed to find is 7
 
 ## 4. The largest number of working machines you were able to run your code with
 
